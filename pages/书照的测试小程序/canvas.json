@@ -163,7 +163,7 @@
               "parentRowSpace": 10,
               "type": "TARO_IMAGE_WIDGET",
               "hideCard": false,
-              "mode": "aspectFit",
+              "mode": "aspectFill",
               "parentColumnSpace": 6.84375,
               "dynamicTriggerPathList": [],
               "leftColumn": 15,
@@ -173,16 +173,13 @@
                 },
                 {
                   "key": "accentColor"
-                },
-                {
-                  "key": "src"
                 }
               ],
               "isMobile": true,
               "key": "zqjs658zm1",
               "isDeprecated": false,
               "rightColumn": 47,
-              "src": "{{Api1.data.image}}",
+              "src": "https://wework.qpic.cn/wwpic/992530_G-levLVgSEWyw_7_1603896372/0",
               "widgetId": "4uhftefmfa",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
